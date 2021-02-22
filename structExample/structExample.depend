@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589380141 source:c:\users\axcly\onedrive\masaüstü\kodlarým\structexample\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

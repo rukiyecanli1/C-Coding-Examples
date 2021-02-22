@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591193804 source:c:\users\axcly\onedrive\masaüstü\kodlarým\isimsýralama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

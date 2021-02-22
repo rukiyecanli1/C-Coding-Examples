@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604756837 source:c:\users\axcly\onedrive\masaüstü\kodlarým\prolabsonkodum\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<graphics.h>
+

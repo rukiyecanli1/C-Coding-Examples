@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604258348 source:c:\users\axcly\onedrive\masaüstü\kodlarým\denemeeeeeee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

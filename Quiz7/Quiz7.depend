@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591195102 source:c:\users\axcly\onedrive\masaüstü\kodlarým\quiz7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
